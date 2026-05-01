@@ -1,8 +1,8 @@
 class BloatBeGone < Formula
   desc "Fast, interactive CLI tool for cleaning Node.js workspace bloat"
   homepage "https://github.com/miainchambers/bloat-be-gone"
-  url "https://github.com/miainchambers/bloat-be-gone/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "bbcff8468971ada5244cd58dad2ffa322c61cfa88284cc1bb38c68d0d18511ef"
+  url "https://github.com/miainchambers/bloat-be-gone/archive/refs/tags/v1.4.1.tar.gz"
+  sha256 "88ec887b76f5ce7c9153ddfad438242f467162413e91e3f1ea79eab5e0c2311d"
   license "MIT"
 
   def install
